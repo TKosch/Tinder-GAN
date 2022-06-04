@@ -1,0 +1,6 @@
+best-artworks-of-all-time/*
+data/*
+generated/*
+.DS_Store
+.ipynb_checkpoints/
+art_gans_training.avi
